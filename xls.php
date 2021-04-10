@@ -1,4 +1,5 @@
 <?php
+	
       $filename ="test.xls";
       $contents = "編號 \t 姓名 \t 職務 \t \n";
       $contents = $contents." 1 \t 小明 \t 董事長 \t \n";
